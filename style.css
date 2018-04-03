@@ -1,0 +1,55 @@
+
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1517635954237-7c23b37adb9c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=49e3e710f070de7ffe8e6ad398dbb152&auto=format&fit=crop&w=1050&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	height: 50px;
+	width: auto;
+	padding: 0;
+	margin: 0;
+	color: #B6693B;
+}
+
+h2 {
+	text-align: center;
+	margin: 50px;
+	color: #B6693B;
+}
+
+p {
+	color: #B6693B;
+}
+
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    margin-bottom: 200px;
+    width: auto;
+    height: 100%;
+    border: 4px solid #343a40;
+    border-radius: 50%;
+}
+
+.projectPic {
+	height: 100px;
+	width: auto;
+	margin: 0;
+	border-radius: none;
+}
+
+#form-group {
+	width: 300px;
+}
+div {
+	margin: 0;
+	display: block;
+	text-align: center;
+}
+
